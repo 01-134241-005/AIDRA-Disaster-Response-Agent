@@ -2,7 +2,7 @@
 
 A fully integrated hybrid AI system for disaster victim rescue using search algorithms, constraint satisfaction, machine learning, fuzzy logic, and dynamic replanning.
 
----
+
 
 ## 📌 Overview
 
@@ -17,7 +17,7 @@ AIDRA coordinates ambulances in a 5×5 grid disaster environment. It integrates:
 
 The system successfully rescues **5/5 victims** (2 Critical, 2 Moderate, 1 Minor) with 2 ambulances (capacity 3 each) under dynamic blockages.
 
----
+
 
 ## 🚀 Features
 
@@ -30,7 +30,7 @@ The system successfully rescues **5/5 victims** (2 Critical, 2 Moderate, 1 Minor
 | Replanning | On‑the‑fly A* after random blockages (50% per victim) |
 | Metrics | 3 graphs: algorithm comparison, time‑risk trade‑off, optimality ratio |
 
----
+
 
 ## 🧠 System Architecture
 
@@ -38,11 +38,6 @@ The system successfully rescues **5/5 victims** (2 Critical, 2 Moderate, 1 Minor
 
 *Data flow: Environment → ML → Fuzzy → CSP → Search → Decision → Replanning → Metrics.*
 
----
 
-## 📦 Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/AIDRA-Disaster-Response-Agent.git
-   cd AIDRA-Disaster-Response-Agent
+
